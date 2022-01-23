@@ -1196,3 +1196,4 @@ function library:Init(title)
 	end
     return tabs
 end
+return library
