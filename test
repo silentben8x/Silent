@@ -1,3 +1,0 @@
-if _G.Key == "Pog" then
-print("Key Succes")
-end
